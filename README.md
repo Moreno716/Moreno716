@@ -54,7 +54,7 @@ Me caracterizo por mi pensamiento analítico, capacidad de resolución de proble
 
 <br>
 
-## 🚀 Portafolio y Proyectos
+## 🌐 Portafolio y Proyectos
 
 <p align="center">
   <a href="https://tu-portafolio.com" target="_blank">
@@ -94,7 +94,7 @@ Sitio web moderno enfocado en experiencia de usuario y diseño responsive.
 
 <br>
 
-## 🚀 Stack Tecnológico
+## 🛠️ Stack Tecnológico
 
 ### 💻 Lenguajes de Programación
 
