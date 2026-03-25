@@ -5,9 +5,15 @@
 
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Hi there👋, I'm Elio Chiu</h1></summary>
+    <summary>
+      <h1 style="display: inline-block">
+        Hola 👋, soy Juan Diego Moreno
+      </h1>
+    </summary>
   </ul>
 </div>
+
+<h3>💻 Desarrollador de Software | 🚀 Backend & Frontend | 🇨🇴 Colombia</h3>
 
 
 <!--About Me-->
@@ -16,22 +22,29 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am a `Junior` at [School of Cyber Science and Technology](https://cst.buaa.edu.cn/) in [BUAA](https://ev.buaa.edu.cn/)
-- :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship`
-- :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
-- :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:eliochiu2@gmail.com)
-- :nerd_face: Always believe `"You are what you loved"`
+💻 Tecnólogo en Desarrollo de Software y estudiante de Ingeniería de Sistemas, con sólidas bases técnicas y enfoque en la mejora continua y la entrega de valor.  
+Me caracterizo por mi pensamiento analítico, capacidad de resolución de problemas y habilidades para trabajar en equipo o liderar iniciativas.
+
+<br>
+
+- 🎓 Actualmente estudiante de **Ingeniería de Sistemas**
+- 💼 Desarrollador de Software con experiencia en:
+  `Spring Boot` · `Angular` · `CodeIgniter` · `Vue.js` · `React`
+- 🐧 Manejo de **servidores Linux** en entornos locales
+- 🧠 Alta capacidad **analítica y deductiva**
+- 🤝 Facilidad para el **trabajo en equipo** y adaptación
+- 🚀 Experiencia en **liderazgo de equipos**
+- 📈 Enfocado en el **aprendizaje continuo** y mejora constante
 
 <br>
 
 ## 🤝 Contact Me
 
 <p align="left">
-  <a href="mailto:tuemail@gmail.com">
+  <a href="mailto:juandiegomc00@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/tu-usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/juandiegomoreno/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://discord.com/users/tuID" target="_blank">
