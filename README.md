@@ -54,6 +54,42 @@ Me caracterizo por mi pensamiento analítico, capacidad de resolución de proble
 
 <br>
 
+## 🚀 Portafolio y Proyectos
+
+<p align="center">
+  <a href="https://tu-portafolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Ver%20Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  Aquí podrás encontrar algunos de mis proyectos destacados, donde aplico mis conocimientos en desarrollo backend, frontend y diseño de soluciones tecnológicas.
+</p>
+
+---
+
+### 💡 Proyectos destacados
+
+🔹 **Sistema de Gestión Web**  
+Aplicación web para gestión de usuarios y procesos internos.  
+**Tecnologías:** `Spring Boot` · `Angular` · `MySQL`  
+
+🔹 **API REST con FastAPI**  
+Desarrollo de servicios backend para manejo de datos y autenticación.  
+**Tecnologías:** `FastAPI` · `PostgreSQL`  
+
+🔹 **Landing Page Profesional**  
+Sitio web responsive enfocado en experiencia de usuario.  
+**Tecnologías:** `React` · `TailwindCSS`  
+
+---
+
+<p align="center">
+  ⚡ *Actualmente trabajando en nuevos proyectos que estarán disponibles próximamente...*
+</p>
+
+<br>
+
 ## 🚀 Stack Tecnológico
 
 ### 💻 Lenguajes de Programación
