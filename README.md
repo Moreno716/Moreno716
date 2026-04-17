@@ -76,9 +76,9 @@ Landing Page para una agencia de turismo colombiana.
 
 ---
 
-🔹 **[API REST con FastAPI](https://github.com/tuusuario/api-fastapi)**  
-Servicio backend para autenticación y gestión de datos.  
-**Stack:** `FastAPI` · `PostgreSQL`  
+🔹 **[Crud de Gestión de empleados](https://github.com/Moreno716/gestion-empleados)**  
+Este repositorio organiza un flujo CRUD completo para empleados: alta, consulta, actualizacion, detalle y eliminacion.
+**Stack:** `Spring Boot` · `Angular` · `MySQL`  
 
 ---
 
