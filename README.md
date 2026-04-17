@@ -70,9 +70,9 @@ Me caracterizo por mi pensamiento analítico, capacidad de resolución de proble
 
 ### 💼 Proyectos Destacados
 
-🔹 **[Sistema de Gestión Web](https://github.com/tuusuario/sistema-gestion)**  
-Aplicación para la administración de usuarios y procesos internos.  
-**Stack:** `Spring Boot` · `Angular` · `MySQL`  
+🔹 **[Página Web Bosko Colombia](https://moreno716.github.io/bosko-colombia/)**  
+Página web informativa para una agencia de turismo colombiana.  
+**Stack:** `Angular` · `Tailwind CSS`  
 
 ---
 
