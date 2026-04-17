@@ -70,8 +70,8 @@ Me caracterizo por mi pensamiento analítico, capacidad de resolución de proble
 
 ### 💼 Proyectos Destacados
 
-🔹 **[Página Web Bosko Colombia](https://moreno716.github.io/bosko-colombia/)**  
-Página web informativa para una agencia de turismo colombiana.  
+🔹 **[Landing Page Bosko Colombia](https://moreno716.github.io/bosko-colombia/)**  
+Landing Page para una agencia de turismo colombiana.  
 **Stack:** `Angular` · `Tailwind CSS`  
 
 ---
