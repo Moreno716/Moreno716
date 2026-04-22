@@ -82,12 +82,6 @@ Este repositorio organiza un flujo CRUD completo para empleados: alta, consulta,
 
 ---
 
-🔹 **[Sorteos Facilísimo](https://github.com/Moreno716/sorteosfacifacilisimo)**  
-Sitio web para la empresa Facilísimo la cual se usa para realizar los sorteos de redes sociales.  
-**Stack:** `React` · `TailwindCSS`  
-
----
-
 <p align="center">
   🚧 <strong>Más proyectos en camino...</strong>
 </p>
